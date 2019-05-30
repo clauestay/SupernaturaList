@@ -1,0 +1,2 @@
+# SupernaturaList
+Proyecto Laravel
